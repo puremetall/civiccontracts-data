@@ -1,0 +1,31 @@
+{
+  "name": "@puremetall/civiccontracts-data",
+  "version": "0.1.0",
+  "description": "An open client for public U.S. government contract data (USAspending).",
+  "license": "MIT",
+  "homepage": "https://www.civiccontracts.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puremetall/civiccontracts-data.git"
+  },
+  "keywords": [
+    "government",
+    "contracts",
+    "usaspending",
+    "procurement",
+    "govcon"
+  ],
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "preppublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}
