@@ -9,7 +9,7 @@ description = "An open client for public U.S. government contract data (USAspend
 readme = "../README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "CivicContracts" }]
+authors = [{ name = "Civic AI" }]
 keywords = ["government", "contracts", "usaspending", "procurement", "govcon"]
 classifiers = [
   "Programming Language :: Python :: 3",

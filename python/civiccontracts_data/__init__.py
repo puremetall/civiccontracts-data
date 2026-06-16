@@ -1,6 +1,6 @@
 """civiccontracts-data: an open client for public U.S. government contract data.
 
-Maintained by CivicContracts (https://www.civiccontracts.com).
+Maintained by Civic AI (https://www.civiccontracts.com).
 """
 
 from .client import CivicContractsClient, Award

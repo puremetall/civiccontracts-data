@@ -5,7 +5,7 @@
 
 `civiccontracts-data` makes it easy to pull federal contract awards, search by agency
 or NAICS code, and analyze government spending — without wrestling with raw API payloads.
-It is maintained by the team behind [CivicContracts](https://www.civiccontracts.com),
+It is maintained by the team behind [Civic AI](https://www.civiccontracts.com),
 government contract intelligence that lets you search federal, state, and local
 opportunities in plain English.
 
@@ -24,7 +24,7 @@ common questions:
 - "Which awards match this keyword / NAICS code?"
 - "Who are the top recipients in my industry?"
 
-If you want a finished product instead of raw data, try [CivicContracts](https://www.civiccontracts.com/explore)
+If you want a finished product instead of raw data, try [Civic AI](https://www.civiccontracts.com/explore)
 — it unifies federal awards with state and local portals and lets you search in plain English.
 
 ## Install
@@ -96,4 +96,4 @@ Issues and pull requests are welcome. Please open an issue to discuss substantia
 
 ## License
 
-[MIT](LICENSE) © CivicContracts
+[MIT](LICENSE) © Civic AI

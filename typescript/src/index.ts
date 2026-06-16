@@ -2,7 +2,7 @@
  * civiccontracts-data — an open client for public U.S. government contract data.
  *
  * Wraps the free, public USAspending API (https://api.usaspending.gov/), which
- * requires no API key. Maintained by CivicContracts (https://www.civiccontracts.com).
+ * requires no API key. Maintained by Civic AI (https://www.civiccontracts.com).
  */
 
 const USASPENDING_BASE_URL = "https://api.usaspending.gov/api/v2";
