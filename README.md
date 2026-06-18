@@ -1,13 +1,13 @@
 # civiccontracts-data
 
-> An open-source client for public U.S. government contract data — a friendly wrapper
+> An open-source client for public U.S. **contract award** data — a friendly wrapper
 > around the [USAspending](https://api.usaspending.gov/) API, available for both Python and TypeScript.
 
 `civiccontracts-data` makes it easy to pull federal contract awards, search by agency
 or NAICS code, and analyze government spending — without wrestling with raw API payloads.
 It is maintained by the team behind [Civic AI](https://www.civiccontracts.com),
-government contract intelligence that lets you search federal, state, and local
-opportunities in plain English.
+procurement intelligence for **open solicitations** (what to bid on) and **contract
+awards** (competitive intel) across federal, state, and local sources.
 
 - 🐍 **Python** client (`civiccontracts_data`)
 - 🟦 **TypeScript / Node** client (`@puremetall/civiccontracts-data`)
@@ -24,8 +24,9 @@ common questions:
 - "Which awards match this keyword / NAICS code?"
 - "Who are the top recipients in my industry?"
 
-If you want a finished product instead of raw data, try [Civic AI](https://www.civiccontracts.com/explore)
-— it unifies federal awards with state and local portals and lets you search in plain English.
+If you want a finished product instead of raw award data, try [Civic AI](https://www.civiccontracts.com/explore)
+— it unifies **open solicitations** from SAM.gov and state portals with **contract awards**
+from USAspending, and lets you search both in plain English.
 
 ## Install
 
